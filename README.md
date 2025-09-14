@@ -13,7 +13,7 @@
 
 ## 📁 Dataset
 
-- Source: Kaggle - Netflix Movies and TV Shows Dataset
+- Source: Kaggle - https://www.kaggle.com/datasets/shivamb/netflix-shows
 - Format: CSV
 - Cleaned and structured into a PostgreSQL-compatible schema
 
