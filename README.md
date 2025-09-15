@@ -248,7 +248,7 @@ GROUP BY category;
 - **Content Type Distribution:** Netflix features a diverse mix of Movies and TV Shows.
 - **Popular Ratings:** Common ratings highlight the platform’s family-oriented and adult content segments.
 - **Geographical Insights:** U.S. and India dominate content production, with others following closely.
-- **Keyword-Based Categorization:** Helps identify content tone and audience type.
+- **Keyword-Based Categorisation:** Helps identify content tone and audience type.
 - **Director/Actor-Based Filters:** Useful for niche recommendations and profiling.
 
 ---
